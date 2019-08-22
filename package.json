@@ -1,0 +1,16 @@
+{
+  "name": "apirest",
+  "version": "1.0.0",
+  "description": "Simples API rest utilizando Node JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js "
+  },
+  "author": "Rogério Araújo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
